@@ -19,11 +19,11 @@
     "firebase",
     "typescript"
   ],
-  "author": "Your Name",
+  "author": "RomaruDaze",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/bloomdays.git"
+    "url": "https://github.com/RomaruDaze/bloomdays.git"
   },
   "homepage": "https://bloomdays.vercel.app",
   "dependencies": {
